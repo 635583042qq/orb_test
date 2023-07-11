@@ -1,0 +1,8 @@
+prefix=/home/lyh/orb_test/install
+
+Name: orb_test
+Description: Description of orb_test
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

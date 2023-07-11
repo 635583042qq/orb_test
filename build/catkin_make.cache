@@ -1,0 +1,2 @@
+orb_test
+-DCATKIN_DEVEL_PREFIX=/home/lyh/orb_test/devel -DCMAKE_INSTALL_PREFIX=/home/lyh/orb_test/install -G Unix Makefiles
