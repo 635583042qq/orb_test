@@ -37,6 +37,8 @@ eigen3/Eigen/Dense
 -
 eigen3/Eigen/Core
 -
+opencv2/core/eigen.hpp
+-
 iostream
 -
 orb_extractor1.h
@@ -1981,6 +1983,10 @@ memory
 -
 type_traits
 -
+
+/usr/include/opencv4/opencv2/core/eigen.hpp
+opencv2/core.hpp
+/usr/include/opencv4/opencv2/core/opencv2/core.hpp
 
 /usr/include/opencv4/opencv2/core/fast_math.hpp
 opencv2/core/cvdef.h
